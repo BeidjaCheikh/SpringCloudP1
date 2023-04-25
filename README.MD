@@ -6,7 +6,9 @@
 <h2>Master SDIA </h2><br><br>
 <img src="captures/img1.png"/><br><br>
 <h4>1. Créer le micro service Customer-service</h4>
-<h4></h4>
+<h4>• Créer l’entité Customer </h4><br>
+<img src="captures/img2.png"/><br><br>
+
 
 
 
