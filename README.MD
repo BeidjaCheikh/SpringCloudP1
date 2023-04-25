@@ -44,7 +44,26 @@
 <img src="captures/img18.png"/><br><br>
 <h3>1. Tester la Service proxy en utilisant une configuration Statique basée
 sur le fichier application.yml</h3>
-<img src="captures/img.png"/><br><br>
+<img src="captures/img19.png"/><br><br>
+<h2>Test</h2>
+<h4>list de customers </h4>
+<img src="captures/img20.png"/><br><br>
+<h4>list de products </h4>
+<img src="captures/img21.png"/><br><br>
+<h3>2. Tester la Service proxy en utilisant une configuration Statique basée
+une configuration Java</h3>
+<h4>configuration Statique basée une configuration Java</h4>
+<img src="captures/img22.png"/><br><br>
+<h4>Registry Eureka Service </h4>
+<img src="captures/img22.png"/><br><br>
+<h4>list de customers </h4>
+<img src="captures/img20.png"/><br><br>
+<h4>list de products </h4>
+<img src="captures/img21.png"/><br><br>
+
+
+
+
 
 
 
