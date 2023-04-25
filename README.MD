@@ -4,7 +4,7 @@
 <h1>Beidja Cheikh</h1>
 <h2>Master SDIA </h2><br><br>
 <img src="captures/img1.png"/><br><br>
-<h3>1. Créer le micro service Customer-service</h3><br>
+<h2>1. Créer le micro service Customer-service</h2><br>
 <h4>• Créer l’entité Customer </h4><br>
 <img src="captures/img2.png"/><br><br>
 <h4>• Créer l’interface CustomerRepository basée sur Spring Data </h4>
@@ -12,6 +12,8 @@
 <h4>• Déployer l’API Restful du micro-service en utilisant Spring Data Rest </h4><br>
 <b>voici ce fait grace a lanotation @RepositoryRestResource</b></b>
 <img src="captures/img4.png"/><br><br>
+<h3>.voici pour enregistré les customers dans le base de donnees</h3><br>
+<img src="captures/img13.png"/><br><br>
 <h2>• <b>Tester le Micro service</b></h2><br><br>
 <h3>- liste de customers </h3><br>
 <img src="captures/img5.png"/><br><br>
@@ -22,13 +24,20 @@
 <img src="captures/img8.png"/><br><br>
 <h3>- notre base de donner H2-console </h3>
 <img src="captures/img9.png"/><br><br>
-<h3>2. Créer le micro service Inventory-service </h3>
+<h2>2. Créer le micro service Inventory-service </h2>
 <h4>• Créer l’entité Product</h4><br>
 <img src="captures/img10.png"/><br><br>
 <h4>• Créer l’interface ProductRepository basée sur Spring Data</h4><br>
 <img src="captures/img11.png"/><br><br>
 <h4>• Déployer l’API Restful du micro-service en utilisant Spring Data Rest</h4><br>
 <img src="captures/img12.png"/><br><br>
+<h4>•L'enregistrement des produits</h4><br>
+<img src="captures/img14.png"/><br><br>
+<h2>•<b>Tester le Micro service</b></h2><br><br>
+<h3>- notre base de donner H2-console </h3>
+<img src="captures/img15.png"/><br><br>
+
+
 
 
 
