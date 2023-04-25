@@ -54,13 +54,28 @@ sur le fichier application.yml</h3>
 une configuration Java</h3>
 <h4>configuration Statique basée une configuration Java</h4>
 <img src="captures/img22.png"/><br><br>
-<h4>Registry Eureka Service </h4>
-<img src="captures/img22.png"/><br><br>
 <h4>list de customers </h4>
 <img src="captures/img20.png"/><br><br>
 <h4>list de products </h4>
 <img src="captures/img21.png"/><br><br>
-
+<h3>4. Créer l’annuaire Registry Service basé sur NetFlix Eureka Server</h3>
+<img src="captures/img24.png"/><br><br>
+<img src="captures/img23.png"/><br><br>
+<h3>5. Tester le proxy en utilisant une configuration dynamique de Gestion des routes vers les micro services enregistrés dans l’annuaire Eureka Server</h3>
+<img src="captures/img25.png"/><br><br>
+<img src="captures/img23.png"/><br><br>
+<h4>list de customers </h4>
+<img src="captures/img20.png"/><br><br>
+<h4>list de products </h4>
+<img src="captures/img21.png"/><br><br>
+<h4> configuration dynamique</h4>
+<img src="captures/img26.png"/><br><br>
+<h4>list de customers </h4>
+<img src="captures/img27.png"/><br><br>
+<h4>list de products </h4>
+<img src="captures/img28.png"/><br><br>
+<h4>product par son id </h4>
+<img src="captures/img29.png"/><br><br>
 
 
 
