@@ -36,6 +36,14 @@
 <h2>•<b>Tester le Micro service</b></h2><br><br>
 <h3>- notre base de donner H2-console </h3>
 <img src="captures/img15.png"/><br><br>
+<h3>- liste de produits </h3><br>
+<img src="captures/img16.png"/><br><br>
+<h3>-product par son id </h3><br>
+<img src="captures/img17.png"/><br><br>
+
+
+
+
 
 
 
