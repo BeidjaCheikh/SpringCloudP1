@@ -40,7 +40,11 @@
 <img src="captures/img16.png"/><br><br>
 <h3>-product par son id </h3><br>
 <img src="captures/img17.png"/><br><br>
-
+<h2>3. Créer la Gateway service en utilisant Spring Cloud Gateway</h2><br>
+<img src="captures/img18.png"/><br><br>
+<h3>1. Tester la Service proxy en utilisant une configuration Statique basée
+sur le fichier application.yml</h3>
+<img src="captures/img.png"/><br><br>
 
 
 
