@@ -76,7 +76,7 @@ une configuration Java</h3>
 <img src="captures/img28.png"/><br><br>
 <h4>product par son id </h4>
 <img src="captures/img29.png"/><br><br>
-
+<h3>6. Créer Le service Billing-Service en utilisant Open Feign pour ommuniquer avec les services Customer-service et Inventory-service</h3>
 
 
 
