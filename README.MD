@@ -13,7 +13,7 @@
 <h4>• Déployer l’API Restful du micro-service en utilisant Spring Data Rest </h4>
 <b>voici ce fait grace a lanotation @RepositoryRestResource</b></b>
 <img src="captures/img4.png"/><br><br>
-<h4>• Tester le Micro service</h4>
+<h4>• Tester le Micro service</h4><br><br>
 
 
 
