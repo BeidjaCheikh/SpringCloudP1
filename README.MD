@@ -1,5 +1,4 @@
 <img src="captures/img.png"/><br><br>
-
 <h2>Activité pratique N°5 : Architecture Micro-services avec Spring Cloud</h2>
 <h1>compte rendu</h1>
 <h1>Beidja Cheikh</h1>
@@ -14,6 +13,10 @@
 <b>voici ce fait grace a lanotation @RepositoryRestResource</b></b>
 <img src="captures/img4.png"/><br><br>
 <h4>• Tester le Micro service</h4><br><br>
+<img src="captures/img5.png"/><br><br>
+
+
+
 
 
 
