@@ -25,6 +25,10 @@
 <h3>2. Créer le micro service Inventory-service </h3>
 <h4>• Créer l’entité Product</h4><br>
 <img src="captures/img10.png"/><br><br>
+<h4>• Créer l’interface ProductRepository basée sur Spring Data</h4><br>
+<img src="captures/img11.png"/><br><br>
+<h4>• Déployer l’API Restful du micro-service en utilisant Spring Data Rest</h4><br>
+<img src="captures/img12.png"/><br><br>
 
 
 
